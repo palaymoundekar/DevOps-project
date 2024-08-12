@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
         - name: go-web-app
-          image: moundekarpalay/go-web-app:{{.value.tag}}
+          image: palaymoundekar/go-web-app:{{.value.tag}}
           ports:
           - containerPort: 8080
   replicas: 2
