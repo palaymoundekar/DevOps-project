@@ -8,7 +8,7 @@ image:
   repository: palaymoundekar/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10356393208"
+  tag: "10356826634"
 
 imagePullSecrets: []
 nameOverride: ""
